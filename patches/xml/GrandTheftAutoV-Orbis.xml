@@ -6,7 +6,7 @@
         <ID>CUSA00880</ID>
     </TitleID>
     <Metadata Title="Grand Theft Auto V"
-              Name="60 FPS Unlock"
+              Name="50 FPS Unlock"
               Note="CPU Limited."
               Author="illusion"
               PatchVer="1.0"
@@ -17,7 +17,7 @@
         </PatchList>
     </Metadata>
     <Metadata Title="Grand Theft Auto V"
-              Name="60 FPS Unlock"
+              Name="50 FPS Unlock"
               Author="illusion, GraFfiX_221211"
               PatchVer="1.0"
               AppVer="01.38"
